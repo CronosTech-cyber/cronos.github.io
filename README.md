@@ -1,1 +1,1 @@
-# cronos.github.io
+# http://cronos.github.io
