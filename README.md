@@ -1,1 +1,1 @@
-# https://cronostech-cyber.github.io/cronos.github.io/
+# https://cronos.github.io/
